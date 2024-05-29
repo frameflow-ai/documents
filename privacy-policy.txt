@@ -1,0 +1,76 @@
+Effective Date: 29-05-2024
+
+1. Introduction
+
+Welcome to StickerLife! Your privacy is important to us. This Privacy Policy outlines how StickerLife ("we," "our," or "us") collects, uses, discloses, and protects your information when you use our mobile application ("App"). By using StickerLife, you agree to the collection and use of information in accordance with this policy.
+
+2. Information We Collect
+
+We collect several types of information to provide and improve our service to you:
+
+a. User Images
+
+    When you use our App to create stickers, you provide us with images. These images are processed on our servers to generate animated stickers. The original images are deleted immediately after processing.
+
+b. Anonymous User IDs
+
+    We assign anonymous user IDs to each user. These IDs do not contain any personal information and are used to track usage and interactions within the App for the purpose of improving our services.
+
+c. Usage Data
+
+    We collect information on how the App is accessed and used. This may include your device's Internet Protocol (IP) address, device type, operating system, the pages of our App that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers, and other diagnostic data.
+
+3. Use of Information
+
+We use the collected data for various purposes:
+
+    To provide and maintain our App.
+    To process and animate your images into stickers.
+    To notify you about changes to our App.
+    To allow you to participate in interactive features of our App when you choose to do so.
+    To provide customer support.
+    To gather analysis or valuable information so that we can improve our App.
+    To monitor the usage of our App.
+    To detect, prevent, and address technical issues.
+
+4. Data Retention
+
+We retain your personal information only for as long as necessary to provide you with the App and for legitimate and essential business purposes, such as maintaining the performance of the App, making data-driven business decisions about new features and offerings, complying with our legal obligations, and resolving disputes. Original images are deleted immediately after processing, while the animated version is retained as per user request.
+
+5. Data Sharing and Disclosure
+
+We do not sell, trade, or otherwise transfer your personal information to outside parties except as described in this Privacy Policy. We may share your information in the following situations:
+
+    With Service Providers: We may share your information with third-party vendors, service providers, contractors, or agents who perform services on our behalf and require access to such information to do that work.
+    For Legal Reasons: We may disclose your information if required to do so by law or in response to valid requests by public authorities (e.g., a court or a government agency).
+    Business Transfers: If we are involved in a merger, acquisition, or asset sale, your personal information may be transferred. We will provide notice before your personal information is transferred and becomes subject to a different privacy policy.
+
+6. Security of Data
+
+The security of your data is important to us, but remember that no method of transmission over the Internet or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+7. Your Data Protection Rights
+
+Depending on your location, you may have the following rights regarding your personal data:
+
+    Access: You have the right to access and obtain a copy of your personal information.
+    Rectification: You have the right to correct inaccuracies in your personal information.
+    Erasure: You have the right to request the deletion of your personal information.
+    Restriction: You have the right to request the restriction of processing of your personal information.
+    Portability: You have the right to receive your personal information in a structured, commonly used, and machine-readable format.
+    Objection: You have the right to object to the processing of your personal information.
+
+To exercise these rights, please contact us at frameflowai@gmail.com.
+
+8. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
+
+9. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+    By email: frameflowai@gmail.com
+    By visiting this page on our website: https://stickerlife.ai
+
+Thank you for using StickerLife!
